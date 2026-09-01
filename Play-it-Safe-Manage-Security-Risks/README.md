@@ -4,8 +4,8 @@
 1. [Introduction](#1-introduction)
 2. [Scenario](#2-scenario)
 3. [Audit goals](#3-audit-goals)
-4. [Controls assessment](4#-controls-assessment)
-5. [Recommendations](5#-Recommendations)
+4. [Controls assessment](#4-controls-assessment)
+5. [Recommendations](#5-Recommendations)
 
 ---
 
